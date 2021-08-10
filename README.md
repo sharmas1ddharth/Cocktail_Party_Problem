@@ -2,6 +2,9 @@
 
 In this project, I have applied Independent Component Analysis to extract individual audio components from file in which three audio components are mixed together.
 
+### Problem 
+
+![problem](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/blob/main/images/problem.png)
 
 ## Technologies:
 
@@ -27,16 +30,13 @@ You will also need to have software installed to run and execute an
 
 The data for this project are three audio files where each one of them contain a mixed recording of the three different audio components. And each one of the recording are recorded from different angle. As, you can see in the image below.
 
-![data]()
+![data](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/blob/main/images/Screenshot%20(3).png)
 
-
-## Implementation
 
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here]
-4. etc...
-5. Follow setup [instructions](Link to file)
+2. Raw Data is being kept [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/raw) within this repo.
+3. Find final results [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/processed)
+4. Find Project notebook [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/blob/main/notebooks/Extract_individual_components.ipynb)
