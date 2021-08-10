@@ -37,6 +37,10 @@ The data for this project are three audio files where each one of them contain a
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/raw) within this repo.
-3. Find final results [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/processed)
-4. Find Project notebook [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/blob/main/notebooks/Extract_individual_components.ipynb)
+2. Install [requirements.txt](https://github.com/sharmas1ddharth/Cocktail_Party_Problem/blob/main/requirements.txt) 
+  
+      `pip install -r requirements.txt`
+  
+3. Raw Data is being kept [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/raw) within this repo.
+4. Find final results [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/tree/main/data/processed)
+6. Find Project notebook [here](https://github.com/sharmas1ddharth/Extract_individual_components_from_mixed_audio_data/blob/main/notebooks/Extract_individual_components.ipynb)
